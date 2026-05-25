@@ -1,0 +1,7 @@
+id,location,neighborhood,rent_kes,bedrooms,service_charge_kes
+1,nairobi,Roysambu,18000,1,1500
+2,nairobi,Kilimani,45000,2,3500
+3,nairobi,Westlands,60000,2,5000
+4,kiambu,Ruiru,22000,1,1000
+5,kiambu,Thika,15000,1,1200
+6,nairobi,Madaraka,28000,1,2000
